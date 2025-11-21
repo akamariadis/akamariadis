@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
-languages = ["C++", "MATLAB", "C", "Assembly", "Scilab"]
-percentages = [69.76, 27.34, 0.03, 0.47, 0.84]
+languages = ["C++", "MATLAB", "C", "Assembly", "Scilab", "HTML"]
+percentages = [69.76, 27.34, 0.03, 0.47, 0.84, 1.57]
 
 fig, ax = plt.subplots(figsize=(8, 8))
 
