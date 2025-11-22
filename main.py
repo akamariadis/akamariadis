@@ -1,3 +1,5 @@
+# The code behind the pie chart featured in this repository!
+
 import matplotlib.pyplot as plt
 
 languages = ["C++", "MATLAB", "C", "Assembly", "Scilab", "HTML"]
