@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akamariadis&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=html%2Ccss)](https://github.com/akamariadis)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akamariadis&layout=compact&theme=vision-friendly-light&hide_border=true&hide=html%2Ccss)](https://github.com/akamariadis)
