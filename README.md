@@ -1,4 +1,4 @@
-# I am an electrical engineering student, interested in signal processing and its applications in artificial intelligence and robotics, powered by a strong foundation in mathematics, physics and programming. 
+Electrical engineering student, interested in signal processing and its applications in artificial intelligence and robotics.
 
 My goal is to leverage my multidisciplinary background to build robust, intelligent systems that can perceive, learn from, and interact with their physical environments in increasingly sophisticated ways.
 
