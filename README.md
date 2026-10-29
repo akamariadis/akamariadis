@@ -2,10 +2,8 @@
 
 My goal is to leverage my multidisciplinary background to build robust, intelligent autonomous systems that can perceive, learn from, and interact with their physical environments.
 
-## Languages
+## 📊 GitHub Stats
 
-Python · C · C++ · MATLAB
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akamariadis&show_icons=true&theme=tokyonight)
 
-## Tools
-
-Simulink · GitHub · VS Code
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akamariadis&layout=compact&theme=tokyonight)
