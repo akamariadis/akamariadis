@@ -2,4 +2,4 @@
 
 My goal is to leverage my multidisciplinary background to build robust, intelligent autonomous systems that can perceive, learn from, and interact with their physical environments.
 
-![Top Langs](stats.svg)
+[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app)
