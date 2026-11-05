@@ -18,3 +18,4 @@ My goal is to leverage my multidisciplinary background to build robust, intellig
 
 ## GitHub Statistics:
 
+![Most Used Languages](stats.svg)
