@@ -14,7 +14,3 @@ My goal is to leverage my multidisciplinary background to build robust, intellig
 
 
 ## GitHub Statistics:
-
-[![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
-
-[![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
