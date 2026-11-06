@@ -22,5 +22,3 @@
 
 ![Simulink](https://img.shields.io/badge/simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Webots](https://cyberbotics.com/assets/images/webots.png)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-blue?style=for-the-badge&logo=mathworks&logoColor=white)
