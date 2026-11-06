@@ -16,11 +16,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
+  <img src= "https://cyberbotics.com/assets/images/webots.png" alt="Webots" width="40" height="40"/>
 </p>
-
-### Technical Skills
-
 ![Simulink](https://img.shields.io/badge/simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-<p align="left">
-   <img src= "https://cyberbotics.com/assets/images/webots.png" alt="Webots" width="40" height="40"/>
-</p>
