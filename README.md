@@ -21,4 +21,5 @@
 ### Technical Skills
 
 ![Simulink](https://img.shields.io/badge/simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Webots](https://cyberbotics.com/assets/images/webots.png)
 ![Webots](https://img.shields.io/badge/webots-333333?style=for-the-badge)
