@@ -10,3 +10,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Webots_icon.png" alt="Webots" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Simulink_logo.png" alt="Simulink" width="40" height="40"/>
 </p>
+
+### Technical Skills
+
+![Simulink](https://img.shields.io/badge/simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Webots](https://img.shields.io/badge/webots-333333?style=for-the-badge)
+
+## GitHub Statistics:
+
+![Most Used Languages](stats.svg)
