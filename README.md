@@ -1,4 +1,4 @@
-## GitHub Statistics:
+## GitHub Statistics
 
 ![Most Used Languages](stats.svg)
 
