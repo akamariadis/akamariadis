@@ -20,7 +20,6 @@ My goal is to leverage my multidisciplinary background to build robust, intellig
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
-  <img src= "https://cyberbotics.com/assets/images/webots.png" alt="Webots" width="40" height="40"/>
+  <img src="https://cyberbotics.com/assets/images/webots.png" alt="Webots" width="40" height="40"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Simulink_Logo_(non-wordmark).png" alt="Simulink" width="40" height="40"/>
 </p>
-
-![Simulink](https://img.shields.io/badge/simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
